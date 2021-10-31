@@ -12,7 +12,7 @@ class Todolist extends Component {
 
         this.addItem = this.addItem.bind(this);
         this.deleteItem = this.deleteItem.bind(this);
-        //Байдим методы которые используем в классе
+        //Биндим методы которые используем в классе
     }
 
 addItem(e) {
